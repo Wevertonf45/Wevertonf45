@@ -1,6 +1,5 @@
-- 💻 Trabalhando com front-end
-- 📚 Estudando para me tornar full-stack
-- 📚 Estudos 2: Para me tornar desenvolvedor java ☕️
+- 💻 Desenvolvedor Full-Stack
+- 📚 Cybersecurity
 
 ![Wevertonf45's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wevertonf45&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wevertonf45&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
