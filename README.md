@@ -43,7 +43,7 @@
 
 ### 🌐 Conecte-se comigo
 <p align="center">
- <a href="https://www.linkedin.com/in/wevertonf45" target="_blank">
+ <a href="https://www.linkedin.com/in/weverton-santosf45" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
