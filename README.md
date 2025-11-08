@@ -1,5 +1,6 @@
-- 💻 Desenvolvedor Full-Stack
-- 📚 Cybersecurity
+💻 Desenvolvedor Full-Stack
+🛡️ Entusiasta em Cybersecurity
+🚀 Apaixonado por tecnologia, segurança digital e hacking ético.
 
 ![Wevertonf45's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wevertonf45&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wevertonf45&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
